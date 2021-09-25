@@ -1,0 +1,21 @@
+.navbar_nav{
+    margin-left: auto;
+}
+/* .link{
+    border-radius: 50%;
+} */
+.container{
+    margin-bottom: 100px;
+}
+.body{
+    font-family: 'Roboto', sans-serif;
+}
+
+  
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.container footer{
+    padding: 15px 34px 8px 10px;
+}
